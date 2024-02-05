@@ -1,6 +1,6 @@
 ---
 title: "First Knit"
-author: "Claudia"
+author: "Claudia Carrera"
 output: 
   html_document:
     number_sections: true
@@ -27,14 +27,14 @@ I attended high school at Antelope Valley Learning Academy. I find english class
 
 ### my answer   
   
-   
+I currently have a windows computer that I enjoy. From a scale 1 through 10 I would rate myself a 3 on my computer skills. My internet at home is good however on campus the internet connection is poor.    
 
 ## Others and You?   
 What name do you prefer to be called by your classmates and instructor, if your buddys call you something but you want people in the class to call you something else - what would that be? 
 
 ### my answer     
   
-   
+My prefer name would be Claudia.    
  
 
 
@@ -45,7 +45,7 @@ What do you want to achieve in life?  What college subject do you think would be
 
 ### my answer     
   
-   
+I want to be very successful in life and confident in the career I choose to be in. I believe the college subject I would have the greatest interest in would be sociology. I am currently trying to obtain my associate degree in science nursing.    
  
 
 
@@ -56,7 +56,7 @@ Have you ever gone to foreign countries, if so which ones, if not Where might yo
 
 ### my answer     
   
-   
+I have gone to Nicaragua back in 2019 where I went to visit my family and get to know my mom's home country. I had so much fun and would love to visit the country again soon. I have not been in any military branch.    
   
 
 
@@ -69,7 +69,7 @@ What grade do you need to attain in stats to not upset your future plans, What i
 
 ### my answer     
   
-   
+That is great information I was not aware of that knowledge until now. I took Math 115 before however I was not so successful in my first try. I must obtain a grade letter C or higher to not upset my future plans. My plan is try harder this time and be successful in this class so I can pass with a good grade.  
  
 
 
